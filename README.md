@@ -1,0 +1,2 @@
+# SVGTESTING
+Testing hosting SVGs
