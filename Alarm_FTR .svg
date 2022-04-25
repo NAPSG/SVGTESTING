@@ -1,0 +1,30 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="25" height="25" id="svg35081" version="1.1" inkscape:version="0.91 r13725" viewBox="0 0 25 25" sodipodi:docname="Base_Alarm.svg">
+  <title id="title11663">Communication Annunciator Pane</title>
+  <defs id="defs35083">
+    <linearGradient id="linearGradient4234" osb:paint="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop4236"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5359" osb:paint="gradient">
+      <stop style="stop-color:#000097;stop-opacity:1;" offset="0" id="stop5361"/>
+      <stop style="stop-color:#000097;stop-opacity:0;" offset="1" id="stop5363"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="22.627417" inkscape:cx="8.7801758" inkscape:cy="19.149881" inkscape:current-layer="layer3" showgrid="true" inkscape:document-units="px" inkscape:grid-bbox="true" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1536" inkscape:window-height="897" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1">
+    <sodipodi:guide position="0.50703643,13.783113" orientation="1,0" id="guide4181"/>
+    <sodipodi:guide position="25.770728,24.489097" orientation="0,1" id="guide4183"/>
+    <sodipodi:guide position="24.505669,25.118864" orientation="1,0" id="guide4185"/>
+    <sodipodi:guide position="-2.3903146,0.49668874" orientation="0,1" id="guide4187"/>
+  </sodipodi:namedview>
+  <metadata id="metadata35086">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Communication Annunciator Pane</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <svg:g inkscape:label="Alarm_FTR " id="g6470" inkscape:groupmode="layer" style="display:inline" transform="translate(0,-375)">
+    <svg:path style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.90273851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 9.3258918,384.03064 0,2.60584 2.3342612,0 0,10.86625 1.927628,0 0,-10.86625 2.33426,0 0,-2.60584 -6.5961492,0 z m -2.7270863,2.97781 0,10.49428 1.2404248,0 0,-4.48243 2.0617328,0 0,-2.02981 -2.0617328,0 0,-1.95227 2.2241687,0 0,-2.02977 -3.4645935,0 z m 8.8577775,0 0,10.49428 1.240426,0 0,-3.84812 0.57471,0 1.318221,3.84812 1.522798,0 -1.613681,-4.4966 c 0.30738,-0.32419 0.543339,-0.73054 0.707853,-1.2192 0.166686,-0.48864 0.249959,-1.12059 0.249959,-1.89588 0,-0.56381 -0.05408,-1.03136 -0.162315,-1.40253 -0.106073,-0.3759 -0.250012,-0.68127 -0.431843,-0.91621 -0.179665,-0.23492 -0.372307,-0.38768 -0.577953,-0.45814 -0.205641,-0.0707 -0.451292,-0.10554 -0.737029,-0.10554 l -2.091144,0 z m 1.240426,1.93115 0.451291,0 c 0.14939,0 0.280264,0.009 0.392825,0.0283 0.112569,0.0126 0.211156,0.0588 0.295581,0.13423 0.121226,0.10807 0.206652,0.25603 0.256438,0.44398 0.04976,0.18796 0.07467,0.41345 0.07467,0.67653 0,0.29605 -0.02059,0.53332 -0.06173,0.71188 -0.03895,0.17392 -0.101667,0.33361 -0.188248,0.47929 -0.09094,0.15029 -0.203508,0.24665 -0.337719,0.28894 -0.134203,0.0422 -0.300887,0.0635 -0.500034,0.0635 l -0.383101,0 0,-2.82624 z" id="path4201" inkscape:connector-curvature="0"/>
+  </svg:g>
+</svg>
